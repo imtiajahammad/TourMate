@@ -1,0 +1,7 @@
+#Mon Feb 13 23:15:44 BDT 2017
+base.0=H\:\\androidStudioProjects\\practiseForBITM\\TourMate01\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ffb3dc575398e8c0dbed91dd98176cbd0faabb3a
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=H\:\\androidStudioProjects\\practiseForBITM\\TourMate01\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_82c3dd6d7d8561832be147bd531027a29ad74401\\classes.dex
+base.1=H\:\\androidStudioProjects\\practiseForBITM\\TourMate01\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_82c3dd6d7d8561832be147bd531027a29ad74401
+file.0=H\:\\androidStudioProjects\\practiseForBITM\\TourMate01\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ffb3dc575398e8c0dbed91dd98176cbd0faabb3a\\classes.dex
